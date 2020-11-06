@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    box-shadow: none;
+    border-radius: 12px;
+    font-family: "Syne Mono", monospace;
+    border-style: none;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 8px 10px;
+    opacity: 0.75;
+}
+
+#btn:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Syne Mono', monospace;
+    color: white;
+    margin: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+h3{
+    font-size: 40px;
+    font-family: 'Syne Mono', monospace;
+    color: white;
+    margin: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase; 
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: black solid 4px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 25px auto ;
+}
+
