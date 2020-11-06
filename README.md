@@ -1,2 +1,2 @@
 # ImageFetcher
-I used an API to get random images nothing fancy
+I just used an API to get random images nothing fancy
